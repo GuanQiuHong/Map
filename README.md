@@ -10,3 +10,5 @@ A mapping application that:
 **: Must visit some intersections before others, travel route limited by imposed restrictions; details in m4 multinode => m4 handout
 
 Second year University of Toronto Computer Engineering project
+
+https://docs.google.com/presentation/d/1Vvm47wv2lWQfVbVNlRJ02msoLKu2mWWjpqwixuXdP8M/edit?usp=sharing slide 14 for a demo of the path finding ability.
