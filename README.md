@@ -1,4 +1,4 @@
-# Map-application--ECE297
+# Map-application
 
 A mapping application that:
 - visually displays various city informations: intersections, buildings, natural landmarks/parks
